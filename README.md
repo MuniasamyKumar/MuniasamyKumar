@@ -2,7 +2,7 @@
 🔭 I’m a Full Stack Developer<br>👯 I’m looking to collaborate on Google,Zoho<br>💬 Ask me about React,MongoDB,Flutter,Nodejs<br>📫 How to reach me muniasamy1909@gmail.com<br>⚡ “N the world, those who break the rules are scum, but those who abandon their friends are worse than scum.”
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muniasamyk/) 
 
 # 💻 Tech Stack:
@@ -11,6 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuniasamyKumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🦇 Dev Meme
+# 🦇 Dev Meme
 <img src='https://www.picturepunches.com/images/memes/293176.jpg' style="height: 400px;"/>
 
